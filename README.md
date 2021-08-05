@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<h1>HyewonShin</h1>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HyewonShin&fontSize=90)
+
 
 😎 <strong>Tech Stack</strong></br>
 
