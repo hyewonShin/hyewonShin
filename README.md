@@ -8,3 +8,4 @@
 - 📫 How to reach me: rusy7225@naver.com
 - ⚡ fact: I LOVE CODING! I WILL BE A GOOD SOFTWARE DEVELOPER!😋
 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin)](https://github.com/anuraghazra/github-readme-stats)
