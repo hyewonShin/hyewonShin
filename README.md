@@ -7,8 +7,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <strong>🌱 I’m currently learning<strong><br/>
  
@@ -18,14 +16,10 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
- 
-📫 How to reach me: rusy7225@naver.com
+
+📫 How to reach me: rusy7225@naver.com<br/>
 ⚡ fact: I LOVE CODING! I WILL BE A GOOD SOFTWARE DEVELOPER!😋
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
