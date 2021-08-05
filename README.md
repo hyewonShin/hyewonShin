@@ -17,6 +17,6 @@
 <br/>
 <br/>
 
-<h3>📫 How to reach me: rusy7225@naver.com</h3><br/>
+<h3>📫 How to reach me: rusy7225@naver.com</h3>
 <h3>⚡ fact: I LOVE CODING! I WILL BE A GOOD SOFTWARE DEVELOPER!😋</h3>
 
