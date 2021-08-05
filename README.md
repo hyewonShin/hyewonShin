@@ -19,4 +19,4 @@
 <h3>⚡ fact: I LOVE CODING! I WILL BE A GOOD SOFTWARE DEVELOPER!😋</h3>
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin)](https://github.com/anuraghazra/github-readme-stats)
