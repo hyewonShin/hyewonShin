@@ -20,5 +20,5 @@
 </div>
 <br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin)%nbsp
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonShin)
