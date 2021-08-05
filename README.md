@@ -21,10 +21,10 @@
 <br/>
 <br/>
  
-- 📫 How to reach me: rusy7225@naver.com
-- ⚡ fact: I LOVE CODING! I WILL BE A GOOD SOFTWARE DEVELOPER!😋
+📫 How to reach me: rusy7225@naver.com
+⚡ fact: I LOVE CODING! I WILL BE A GOOD SOFTWARE DEVELOPER!😋
 
- <br/>
+<br/>
 <br/>
 <br/>
 <br/>
