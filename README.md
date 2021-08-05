@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#20c997&height=600&section=header&text=HyewonShin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyewonShin&fontSize=90)
 
 
 <h2>😎 Tech Stack</h2></br>
