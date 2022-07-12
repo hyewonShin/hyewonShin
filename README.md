@@ -27,6 +27,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <h3>rusy7225@naver.com</h3>
+<h3><a href=https://rusy7225.tistory.com></a></h3>
 </div>
 <br/>
 <br/>
