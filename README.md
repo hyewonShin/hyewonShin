@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=HyewonShin&fontSize=90)
 <br/>
 <br/>
-<div align=center>
+<div align=center> 
 <h2>😎 Tech Stack ❤️❤️</h2></br>
 <br/><br/>
 
@@ -16,11 +16,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-
-<!--<h2>🌱 I’m currently learning</h2><br/>
- 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">-->
 <br/>
 
 
