@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <div align=center> 
-<h2>😎 Tech Stack ❤️</h2></br>
+<h2> 🪄 Tech Stack</h2></br>
 <br/><br/>
 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -22,9 +22,11 @@
 <div align="center">
 Hi, I'm working as a FrontEnd Developer from South Korea 👩🏻‍💻
 <br/>
-Now I'm hooked on JS and React 🤔
+Now I'm hooked on JS and React ☺️
 <br/>
-I wanna Good and Cool FrontEnd Developer 🤸
+I'm Try to Study EveryDay 🏃
+<br/>
+To be a Good and Cool FrontEnd Developer ✨
 </div>
 <br/>
 <br/>
