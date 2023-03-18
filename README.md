@@ -33,10 +33,16 @@ To be a Good and Cool FrontEnd Developer ✨
 <br/>
 <br/>
 
-
-
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <h3>rusy7225@naver.com</h3>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<h3 align="center">🌈 Developer Blog 🌈</h3>
+<h3 target='_blank'>https://rusy7225.tistory.com<h3>
+  
 </div>
 <br/>
 <br/>
