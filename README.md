@@ -18,6 +18,19 @@
 <br/>
 <br/>
 
+<div align="center">
+Hi, I'm working as a FrontEnd Developer from South Korea 👩🏻‍💻
+<br/>
+Now I'm hooked on JS and React 🤔
+<br/>
+I wanna Good and Cool FrontEnd Developer 🤸
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <h3>rusy7225@naver.com</h3>
@@ -25,6 +38,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonShin)
+
