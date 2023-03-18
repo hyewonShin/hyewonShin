@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-<h3 align="center">🌈 Who am I ? 🌈</h3>
+<h3 align="center">🌈 Who am I 🌈</h3>
 <div align="center">
 Hi, I'm working as a FrontEnd Developer from South Korea 👩🏻‍💻
 <br/>
