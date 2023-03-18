@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <div align=center> 
-<h2>😎 Tech Stack ❤️❤️</h2></br>
+<h2>😎 Tech Stack ❤️</h2></br>
 <br/><br/>
 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -18,6 +18,7 @@
 <br/>
 <br/>
 
+<h3 align="center">🌈 Who am I ? 🌈</h3>
 <div align="center">
 Hi, I'm working as a FrontEnd Developer from South Korea 👩🏻‍💻
 <br/>
