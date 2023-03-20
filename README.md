@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <div align=center> 
-<h2> 🪄 Tech Stack</h2></br>
+<h2> 🚀 Tech Stack</h2></br>
 <br/>
 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-<h3 align="center">🌈 Who am I 🌈</h3>
+<h3 align="center"> ✨ Who am I </h3>
 <div align="center">
 Hi, I'm working as a FrontEnd Developer from South Korea 👩🏻‍💻
 <br/>
@@ -26,28 +26,27 @@ Now I'm hooked on JS and React ☺️
 <br/>
 I'm Try to Study EveryDay 🏃
 <br/>
-To be a Good and Cool FrontEnd Developer ✨
+To be a Good and Cool FrontEnd Developer 😎
 </div>
 <br/>
 <br/>
 <br/>
-<br/>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<h3>rusy7225@naver.com</h3>
-<br/>
+<h3 align="center"> ✔ Follow Me </h3>
+rusy7225@naver.com
 <br/>
 <br/>
 <br/>
 
-<h3 align="center">🌈 Developer Blog 🌈</h3>
-<h3 target='_blank'>https://rusy7225.tistory.com<h3>
+
+<h3 align="center"> 🛠 Developer Blog </h3>
+<a target='_blank'>https://rusy7225.tistory.com<a>
   
 </div>
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin)
