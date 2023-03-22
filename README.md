@@ -39,8 +39,8 @@ rusy7225@naver.com
 <br/>
 
 
-<h3 align="center"> 🛠 Developer Blog </h3>
-https://rusy7225.tistory.com
+<!--<h3 align="center"> 🛠 Developer Blog </h3>
+https://rusy7225.tistory.com -->
   
 </div>
 <br/>
