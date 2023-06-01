@@ -51,5 +51,9 @@ https://rusy7225.tistory.com -->
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin)      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonShin&&langs_count=10&layout=donut&theme=dark)](https://github.com/hyewonShin/hyewonShin)
+
+
+
 
