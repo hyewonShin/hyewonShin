@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=HyewonShin&fontSize=90)
 <br/>
 <br/>
-<br/>
 <div align=center> 
 <h2> 🚀 Tech Stack</h2></br>
 <br/>
@@ -32,13 +31,11 @@ To be a Good and Cool FrontEnd Developer 😎
 <br/>
 <br/>
 
-
 <h3 align="center"> ✔ Follow Me </h3>
 rusy7225@naver.com
 <br/>
 <br/>
 <br/>
-
 
 <!--<h3 align="center"> 🛠 Developer Blog </h3>
 https://rusy7225.tistory.com -->
@@ -47,14 +44,8 @@ https://rusy7225.tistory.com -->
 <br/>
 <br/>
 <br/>
-<br/>
-
-
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin&count_private=true&theme=radical)     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonShin&&langs_count=10&layout=donut&theme=merko&count_private=true)](https://github.com/hyewonShin/hyewonShin)
-
-
 
 
