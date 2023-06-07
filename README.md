@@ -44,7 +44,7 @@ https://rusy7225.tistory.com -->
 <br/>
 <br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin&count_private=true&theme=radical)     
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin&theme=radical&count_private=true)     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonShin&&langs_count=10&layout=donut&theme=merko&count_private=true)](https://github.com/hyewonShin/hyewonShin)
 
 
