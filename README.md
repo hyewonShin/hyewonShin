@@ -39,12 +39,4 @@ rusy7225@naver.com
 <!--<h3 align="center"> 🛠 Developer Blog </h3>
 https://rusy7225.tistory.com -->
   
-</div>
-<br/>
-<br/>
-<br/>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyewonShin&theme=radical&count_private=true)     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonShin&&langs_count=10&layout=donut&theme=merko&count_private=true)](https://github.com/hyewonShin/hyewonShin)
-
 
