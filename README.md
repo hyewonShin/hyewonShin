@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=HyewonShin&fontSize=90)
 <br/>
 <br/>
-<div align=center> 
-<h2> 🚀 Tech Stack</h2></br>
+<div align=center>
+<h2> 🚀 Tech Stack</h2>
+</br>
 <br/>
 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
