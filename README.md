@@ -20,7 +20,7 @@
 
 <h3 align="center"> ✨ Who am I </h3>
 <div align="center">
-Hi, I'm working as a FrontEnd Developer from South Korea 👩🏻‍💻
+Hi, I'm working as a FrontEnd and BackEnd Developer from South Korea 👩🏻‍💻
 <br/>
 Now I'm hooked on JS and React ☺️
 <br/>
