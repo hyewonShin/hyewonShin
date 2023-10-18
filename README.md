@@ -22,8 +22,6 @@
 <div align="center">
 Hi, I'm working as a FrontEnd and BackEnd Developer 👩🏻‍💻
 <br/>
-Now I'm hooked on JS and React ☺️
-<br/>
 I'm Try to Study EveryDay 🏃
 <br/>
 To be a Good and Cool Developer 😎
