@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
 <br/>
 <br/>
-<br/>
+
 
 <h3 align="center"> ✨ Who am I </h3>
 <div align="center">
