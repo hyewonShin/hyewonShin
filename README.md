@@ -22,16 +22,6 @@
 <br/>
 <br/>
 
-<h3 align="center"> ✨ Who am I </h3>
-<div align="center">
-Hi, I'm working as a FrontEnd and BackEnd Developer 👩🏻‍💻
-<br/>
-I'm Try to Study EveryDay 🏃
-<br/>
-To be a Good and Cool Developer 😎
-</div>
-<br/>
-
 <h3 align="center"> ✔ Follow Me </h3>
 rusy7225@naver.com
 <br/>
